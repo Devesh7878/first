@@ -1,2 +1,2 @@
 # first
-new project
+new project(hi)
