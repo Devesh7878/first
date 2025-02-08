@@ -1,2 +1,0 @@
-# first
-new project(hi)
